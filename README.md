@@ -19,3 +19,4 @@ The program includes 136 video lessons covering early reading, logical thinking,
 
 ## Project Background
 I developed this bot to apply my programming skills to a real educational project. I worked on the bot's functionality, navigation, and debugging independently.
+The bot was developed for Russian-speaking parents in Kazakhstan. Its interface is in Russian to ensure accessibility for its intended audience.
