@@ -20,6 +20,17 @@ The program includes 135 video lessons covering early reading, logical thinking,
 ## Project Background
 I developed this bot to apply my programming skills to a real educational project. I worked on the bot's functionality, navigation, and debugging independently.
 The bot was developed for Russian-speaking parents in Kazakhstan. Its interface is in Russian to ensure accessibility for its intended audience.
+
+## AI-Assisted Educational Content Creation
+
+In addition to developing the Telegram bot, I created **135 educational video lessons using artificial intelligence tools** for children aged 4–6.
+
+The lessons cover early literacy, logical thinking, attention, memory, personal hygiene, safety, and school readiness.
+
+This project allowed me to combine **Python programming, AI-assisted content creation, and educational technology** to develop a learning resource for Russian-speaking families in Kazakhstan.
+
+
+
 ## Bot Screenshots
 
 The bot was designed for Russian-speaking parents in Kazakhstan.
