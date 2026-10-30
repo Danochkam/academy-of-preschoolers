@@ -28,7 +28,36 @@ The lessons cover early literacy, logical thinking, attention, memory, personal 
 
 This project allowed me to combine **Python programming, AI-assisted content creation, and educational technology** to develop a learning resource for Russian-speaking families in Kazakhstan.
 
+## AI-Assisted Educational Video Production
 
+As part of the Academy of Preschoolers project, I used artificial intelligence tools to help create educational video lessons for children aged 4–6.
+
+### Tools Used
+- **ChatGPT** — preparing and structuring educational scripts.
+- **Google NotebookLM** — generating AI-powered video explanations and presentations from written materials.
+- **Python (aiogram)** — developing the Telegram bot that provides information about the educational program.
+
+### My Video Creation Process
+
+**Step 1: Preparing Educational Content**
+
+I used ChatGPT to develop and organize lesson scripts based on preschool learning topics, including reading, logic, attention, hygiene, safety, and general development.
+
+**Step 2: Creating a NotebookLM Project**
+
+I opened Google NotebookLM, created a new notebook, and uploaded the prepared educational text as source material.
+
+**Step 3: Generating AI Videos**
+
+Using NotebookLM's Video Overview feature, I transformed the written educational materials into AI-generated video explanations and visual presentations.
+
+**Step 4: Organizing Educational Lessons**
+
+I organized the generated materials into a structured preschool learning program containing over 130 video lessons designed for children aged 4–6.
+
+### Project Outcome
+
+This project allowed me to explore how generative AI can support educational content production. I combined AI-assisted content creation with my programming skills to help develop a digital learning product for preschool education.
 
 ## Bot Screenshots
 
